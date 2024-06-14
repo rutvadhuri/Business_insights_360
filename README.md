@@ -16,7 +16,7 @@ The Objective of this project is to answer the questions of stakeholder in terms
 # Data Model
 
 <p align="center">
-    <img src='https://github.com/GeethikaPutcha/Business_Insights_360/blob/main/BI_360_Resources/Data%20Modelling.png' height="400">
+    <img src='business_insights_360/Data Modelling.png' height="400">
 </p>
 
 # Importing Data
