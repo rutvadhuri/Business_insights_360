@@ -27,37 +27,37 @@ As the database is MySQL in this project, we need to import the datasets from My
 # Home Page
 
 <p align="center">
-    <img src='https://github.com/GeethikaPutcha/Business_Insights_360/blob/main/BI_360_Resources/Home%20Page.png' width="600">
+    <img src='business_insights_360/Home Page.png' width="600">
 </p>
 
 # Finance View
 
 <p align="center">
-    <img src='https://github.com/GeethikaPutcha/Business_Insights_360/blob/main/BI_360_Resources/Finance%20View.png' width="600">
+    <img src='business_insights_360/Finance View.png' width="600">
 </p>
 
 # Sales View
 
 <p align="center">
-    <img src='https://github.com/GeethikaPutcha/Business_Insights_360/blob/main/BI_360_Resources/Sales%20View.png' width="600">
+    <img src='business_insights_360/Sales View.png' width="600">
 </p>
 
 # Marketing View
 
 <p align="center">
-    <img src='https://github.com/GeethikaPutcha/Business_Insights_360/blob/main/BI_360_Resources/Marketing%20View.png' width="600">
+    <img src='business_insights_360/Marketing View.png' width="600">
 </p>
 
 # Supply Chain View
 
 <p align="center">
-    <img src='https://github.com/GeethikaPutcha/Business_Insights_360/blob/main/BI_360_Resources/Supply%20Chain%20View.png' width="600">
+    <img src='business_insights_360/Supply Chain View.png' width="600">
 </p>
 
 # Executive View
 
 <p align="center">
-    <img src='https://github.com/GeethikaPutcha/Business_Insights_360/blob/main/BI_360_Resources/Executive%20View.png' width="600">
+    <img src='business_insights_360/Executive View.png' width="600">
 </p>
 
 # Learnings
